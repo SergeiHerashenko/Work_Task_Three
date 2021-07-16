@@ -1,0 +1,13 @@
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.exe
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.deps.json
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.runtimeconfig.json
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.runtimeconfig.dev.json
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.dll
+E:\Test_Work_Uklon\Task_Three\Task_Three\bin\Debug\netcoreapp3.1\Task_Three.pdb
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.csprojAssemblyReference.cache
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.AssemblyInfoInputs.cache
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.AssemblyInfo.cs
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.csproj.CoreCompileInputs.cache
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.dll
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.pdb
+E:\Test_Work_Uklon\Task_Three\Task_Three\obj\Debug\netcoreapp3.1\Task_Three.genruntimeconfig.cache
